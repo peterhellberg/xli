@@ -2,7 +2,7 @@
 
 Minimal version of the xli command line tool written in Go
 
-Main use case is to allow lynx to open images
+Main use case is to allow Lynx to open images
 under OS X (and hopefully other operating systems)
 
 Installation:
