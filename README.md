@@ -5,8 +5,8 @@
 
 Minimal version of **xli** written in [Go](https://golang.org/)
 
-The main use case is to allow [lynx](http://lynx.browser.org/) to open images
-under [OS X](https://www.apple.com/osx/) (and hopefully other operating systems)
+Main use case is to allow [lynx](http://lynx.browser.org/) to open images
+under [OS X](https://www.apple.com/osx/) *(and hopefully other operating systems)*
 
 ## Installation
 
